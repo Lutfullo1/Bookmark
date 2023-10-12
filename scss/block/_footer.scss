@@ -1,0 +1,35 @@
+.footer{
+    padding: 42px;
+    background-color: #828282;
+}
+
+.footer__container {
+    display: flex;
+    align-items: center;
+}
+
+.footer__logo {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-transform: uppercase;
+}
+
+.footer__list {
+    display: inline-block;
+    padding: 0 21px;
+}
+
+.footer__link {
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.footer__img{
+    margin-left: auto;
+}
